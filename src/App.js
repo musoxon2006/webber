@@ -799,6 +799,7 @@ const CardsContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  padding: 2px;
 `;
 
 const Card = styled.div`
