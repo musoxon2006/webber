@@ -800,6 +800,7 @@ const CardsContainer = styled.div`
   flex-wrap: wrap;
   justify-content: center;
   padding: 2px;
+  box-shadow:1px 1px 1px red
 `;
 
 const Card = styled.div`
